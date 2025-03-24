@@ -1,4 +1,4 @@
-# Elecriciview
+<img src="https://github.com/user-attachments/assets/4d25359e-85b0-46ab-8dd1-95655b666baa" alt="app_icon" width="50" align="left"> <h1> Elecriciview</h2>
 
 ## Overview
 Elecriciview is an Android application designed to view and analyze electricity consumption data stored in JSON format. The app allows users to browse through JSON files in a selected folder, view detailed electricity consumption information, and navigate between file listings and detailed views.
@@ -67,3 +67,4 @@ Contributions are welcome. Please feel free to submit a Pull Request.
 ## Contact
 Author: [NNKtv28](https://github.com/NNKtv28)
 For any inquiries, please open an issue in the repository.
+
